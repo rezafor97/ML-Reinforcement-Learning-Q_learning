@@ -1,6 +1,6 @@
 # ML-Reinforcement-Learning-Q_learning
 
-Reinforcement Learning with Q_learning
+Reinforcement Learning with simple Q_learning
 
 
 Reinforcement Learning Example Using Python
